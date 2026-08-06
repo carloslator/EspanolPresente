@@ -1,0 +1,6 @@
+{
+  "name": "Presente — Spanish Present Tenses",
+  "description": "A modern, Swiss-inspired educational app for mastering all Spanish present tenses with simple explanations, full verb conjugations, interactive flashcards, quizzes, and context readings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
